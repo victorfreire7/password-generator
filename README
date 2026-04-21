@@ -1,2 +1,0 @@
-Para o webpack funcionar é necessário abrir um terminal e escrever "npm i", assim, é criado uma nova pasta.
-Após a instalação do Webpack, ainda no terminal escreva "npm run dev" para atualizar automaticamente o "main.js" para o "bundle.js".
